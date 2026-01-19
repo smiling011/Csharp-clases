@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dacky</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+      // variabeles
+    let jugador = 0;
+    let pc = 2;
+    jugador = prompt("Eije: 1 para piedra,  2 para papel, 3 para tijera");
+    alert("Elegiste " + jugador);
+
+    if (juagdor == 1) {
+        alert("Elegiste priedra");
+    } else if (juagdor == 2) {
+        alert("Elegiste papel")
+    } else if (juagdor == 3) {
+        alert("Elegiste tijera")
+    }
+    else {
+        alert("elegiste perder")
+    }
+
+    alert("Elegiste " + pc);
+    if (pc == 1) {
+        alert("Pc eligió priedra");
+    } else if (pc == 2) {
+        alert("Pc eligió papel")
+    } else if (pc == 3) {
+        alert("Pc eligió tijera")
+    }
+
+    //combate
+    if (pc == jugador) {
+        alert("EMPATE")
+    } else if(jugador == 1 && pc == 3) {
+        alert("GANASTE")
+    } else if(jugador == 2 && pc == 1) {
+        alert("GANASTE")
+    }
+    </script>
+
+</head>
+<body>
+    <h1>Piedra papel tijera</h1>
+</body>
+</html>
