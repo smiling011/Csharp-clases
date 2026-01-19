@@ -39,6 +39,10 @@ namespace CSharpHelloWorld
 
             console.WriteLine($"Elvalor de mi entero es {myInt} y el de mi bool {myBool}");
 
+            var myArray = new string[] { "Brais", " Vicky", "Dacky"};
+            console.WriteLine(myArray[3]);
+            
+
         }
     }
 }
