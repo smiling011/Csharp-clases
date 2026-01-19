@@ -1,7 +1,3 @@
-Perfecto 👌
-Aquí tienes una **guía básica y clara para empezar a trabajar con C#**, tanto en **VS Code** como en **Visual Studio**, y además cómo se relaciona con **Visual Basic (VB.NET)** para que no te confundas.
-
----
 
 # 🧭 GUÍA BÁSICA DE C#
 
