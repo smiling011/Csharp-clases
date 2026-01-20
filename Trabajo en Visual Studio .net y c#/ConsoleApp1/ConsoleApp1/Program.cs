@@ -46,7 +46,7 @@ namespace ConsoleApp1
 
 
             // para mntener consola de copilacion abierta
-            Console.ReadKey();
+             
 
 
         }

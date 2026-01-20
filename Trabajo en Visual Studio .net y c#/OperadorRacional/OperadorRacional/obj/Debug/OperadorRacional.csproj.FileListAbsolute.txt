@@ -1,0 +1,7 @@
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\OperadorRacional\OperadorRacional\bin\Debug\OperadorRacional.exe.config
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\OperadorRacional\OperadorRacional\bin\Debug\OperadorRacional.exe
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\OperadorRacional\OperadorRacional\bin\Debug\OperadorRacional.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\OperadorRacional\OperadorRacional\obj\Debug\OperadorRacional.csproj.AssemblyReference.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\OperadorRacional\OperadorRacional\obj\Debug\OperadorRacional.csproj.CoreCompileInputs.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\OperadorRacional\OperadorRacional\obj\Debug\OperadorRacional.exe
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\OperadorRacional\OperadorRacional\obj\Debug\OperadorRacional.pdb

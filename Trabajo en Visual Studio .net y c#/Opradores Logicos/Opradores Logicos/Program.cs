@@ -42,6 +42,9 @@ namespace Opradores_Logicos
             bool resultXor = (valor1 ^ valor2) ^ valor3;
             Console.WriteLine(resultXor);
 
+
+            
+
             Console.ReadKey();
 
 
