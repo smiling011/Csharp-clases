@@ -1,0 +1,7 @@
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\asis3.desarrollo\Documents\HELLO WORLD\C-clases\Trabajo en Visual Studio .net y c#\Strings\Strings\obj\Debug\Strings.pdb
